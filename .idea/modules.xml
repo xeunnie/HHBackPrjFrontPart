@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kakaopayPrac.iml" filepath="$PROJECT_DIR$/.idea/kakaopayPrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HHBackPrjFrontPart/.idea/kakaopayPrac.iml" filepath="$PROJECT_DIR$/../HHBackPrjFrontPart/.idea/kakaopayPrac.iml" />
     </modules>
   </component>
 </project>
